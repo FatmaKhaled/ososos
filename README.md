@@ -28,6 +28,13 @@ line break.
 ![img](https://github.com/FatmaKhaled/ososos/blob/main/imges/1.png)
 
 
+```
+var i;
+for(i=0;i<5;i++){
+    console.log(i);
+}
+```
+
 
 
 
